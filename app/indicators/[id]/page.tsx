@@ -1,0 +1,4 @@
+import {getAtlas} from '../../../lib/data';import {notFound} from 'next/navigation';import Explorer from '../../../components/Explorer';
+export function generateStaticParams(){return getAtlas().indicators.map(i=>({id:i.id}));}
+export async function generateMetadata({params}:{params:Promise<{id:string}>}){const {id}=await params;const i=getAtlas().indicators.find(i=>i.id===id);return {title:i?.name||'指标',description:`${i?.definition||''} 探索中国各省历史趋势、排名、数据下载与官方来源。`,openGraph:{title:`${i?.name} · 中国数据地图`,description:i?.definition}};}
+export default async function Page({params}:{params:Promise<{id:string}>}){const {id}=await params;const a=getAtlas();const i=a.indicators.find(i=>i.id===id);if(!i)notFound();return <Explorer indicator={i} regions={a.regions} observations={a.observations.filter(o=>o.indicator===id)} sources={a.sources} related={a.indicators.filter(x=>x.id!==id&&x.category===i.category).slice(0,3)}/>}

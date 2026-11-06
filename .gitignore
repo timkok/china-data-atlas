@@ -8,3 +8,5 @@ work/
 outputs/
 .env*
 __pycache__/
+
+*.tsbuildinfo

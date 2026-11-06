@@ -1,0 +1,265 @@
+{
+  "checkedAt": "2026-11-06T02:23:26.589181+00:00",
+  "passed": true,
+  "records": 1308,
+  "indicators": 10,
+  "sources": 15,
+  "errors": [],
+  "warnings": [
+    "REVIEW >25% annual change ('birth-rate', '650000'): 2023=7.1, 2024=9.42"
+  ],
+  "coverage": [
+    {
+      "indicator": "beds-total",
+      "year": 2023,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "beds-total",
+      "year": 2024,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "birth-rate",
+      "year": 2023,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "birth-rate",
+      "year": 2024,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "doctors-per-1000",
+      "year": 2023,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "doctors-per-1000",
+      "year": 2024,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "gdp",
+      "year": 2023,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "gdp",
+      "year": 2024,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "gdp-per-capita",
+      "year": 2023,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "gdp-per-capita",
+      "year": 2024,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "income",
+      "year": 2024,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "population",
+      "year": 2024,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "universities",
+      "year": 2023,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "universities",
+      "year": 2024,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "university-students",
+      "year": 2023,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "university-students",
+      "year": 2024,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "provinces": 31,
+      "missing": []
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2024,
+      "provinces": 31,
+      "missing": []
+    }
+  ],
+  "limits": [
+    "Link availability separately checked at acquisition; this gate validates official URL structure.",
+    "No national sum reconciliation unless additivity and scope are established.",
+    "Passing structural checks does not alone validate OCR; raw-to-record review is required.",
+    "No imputation; discontinuous years are retained."
+  ]
+}
