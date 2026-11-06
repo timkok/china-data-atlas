@@ -1,0 +1,23 @@
+{
+  "passed": 12,
+  "failed": 0,
+  "durationMs": 22400.497,
+  "screenshots": [
+    "home-desktop.png",
+    "home-mobile.png",
+    "detail-desktop.png",
+    "detail-mobile.png"
+  ],
+  "coverage": [
+    "homepage and search",
+    "all indicator/year province ranking values",
+    "year and regional filters",
+    "multi-province trend and selected values",
+    "full and filtered CSV",
+    "static CSV processing metadata",
+    "empty search and empty chart selection",
+    "official source links",
+    "static SEO body",
+    "responsive layout and browser errors"
+  ]
+}

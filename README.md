@@ -2,6 +2,10 @@
 
 An independent, source-traceable public statistics product for mainland China's 31 provincial-level regions. V0.1 uses reviewed official observations; no synthetic statistics, interpolation, paid AI calls, or unverified geographical boundaries.
 
+## Live acceptance site
+
+https://nimble-onyx-vdpidox.tmp.now — claimed into the approved Hobby team. It is an independent project Production deployment used for acceptance, not a configured branch Preview pipeline. See docs/release-status.md.
+
 ## Run locally
 
 Requires Node.js 22+ and Python 3.10+.
