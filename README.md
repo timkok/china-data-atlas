@@ -4,7 +4,7 @@ An independent, source-traceable public statistics product for mainland China's 
 
 ## Live acceptance site
 
-https://nimble-onyx-vdpidox.tmp.now — claimed into the approved Hobby team. It is an independent project Production deployment used for acceptance, not a configured branch Preview pipeline. See docs/release-status.md.
+https://china-data-atlas-timkok.vercel.app — public V0.1.1 in the approved Hobby team. GitHub is connected; branch Preview builds and production publication were verified. The original tmp.now URL remains on the older snapshot. See docs/release-status.md.
 
 ## Run locally
 
