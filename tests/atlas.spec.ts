@@ -65,6 +65,7 @@ test('region filter, methodology, SEO and static data',async({page,request})=>{
  await expect(page.locator('meta[name="description"]')).toHaveAttribute('content',new RegExp(first.name));
  await page.goto('/methodology/');await expect(page.getByRole('heading',{level:1})).toBeVisible();
  const response=await request.get('/data/atlas.json');expect(response.ok()).toBeTruthy();expect((await response.json()).observations).toEqual(atlas.observations);
+ const allCsv=await (await request.get('/data/all.csv')).text();expect(allCsv).toContain('processing_method');expect(allCsv.trim().split(/\r?\n/)).toHaveLength(atlas.observations.length+1);
  const html=await (await request.get(`/indicators/${first.id}/`)).text();expect(html).toContain(first.definition);
 });
 test('all-year CSV and multi-province comparison use the same observations',async({page})=>{
