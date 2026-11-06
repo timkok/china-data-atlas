@@ -1,3 +1,5 @@
+import type {MetadataRoute} from 'next';
+import {getAtlas} from '../lib/data';
+import {siteUrl} from '../lib/site';
 export const dynamic='force-static';
-import type {MetadataRoute} from 'next';import {getAtlas} from '../lib/data';
-export default function sitemap():MetadataRoute.Sitemap{const base=process.env.NEXT_PUBLIC_SITE_URL;if(!base)return [];return ['','/indicators','/methodology',...getAtlas().indicators.map(i=>`/indicators/${i.id}`)].map(path=>({url:`${base}${path}/`,changeFrequency:'monthly',priority:path===''?1:.7}));}
+export default function sitemap():MetadataRoute.Sitemap{return ['','/indicators','/methodology',...getAtlas().indicators.map(i=>`/indicators/${i.id}`)].map(path=>({url:`${siteUrl}${path}/`,changeFrequency:'monthly',priority:path===''?1:.7}));}

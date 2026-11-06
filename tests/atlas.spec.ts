@@ -84,3 +84,35 @@ test('all-year CSV and multi-province comparison use the same observations',asyn
  await expect(page.locator('.comparison-values > div')).toHaveCount(2);
  await expect(page.locator('.chart svg')).toBeVisible();
 });
+test('shareable view restores provinces, year, range and valid fallback',async({page,context})=>{
+ await context.grantPermissions(['clipboard-read','clipboard-write']);
+ await page.goto('/indicators/population/?province=440000&year=2020');
+ await expect(page.getByLabel('快速查看省份',{exact:true})).toHaveValue('440000');
+ await expect(page.locator('.chart')).toBeVisible();
+ await page.getByLabel('趋势起始年',{exact:true}).selectOption('2018');
+ await page.getByLabel('趋势结束年',{exact:true}).selectOption('2022');
+ await page.locator('.province-picker').getByLabel('浙江',{exact:true}).check();
+ await page.getByRole('button',{name:'分享当前视图',exact:true}).click();
+ await expect(page.getByRole('status')).toHaveText('链接已复制，可还原当前筛选');
+ const shared=await page.evaluate(()=>navigator.clipboard.readText());expect(shared).toContain('from=2018');expect(shared).toContain('year=2020');
+ await page.goto(shared);
+ await expect(page.getByLabel('数据年度',{exact:true})).toHaveValue('2020');
+ await expect(page.getByLabel('趋势结束年',{exact:true})).toHaveValue('2022');
+ await expect(page.locator('.province-picker input:checked')).toHaveCount(2);
+ await page.goto('/indicators/population/?year=9999&provinces=BAD&from=2050&to=1900&view=invalid');
+ await expect(page.getByLabel('数据年度',{exact:true})).toHaveValue('2024');
+ await expect(page.locator('.rank-row')).toHaveCount(31);
+});
+test('all-year table exports selected province and SVG carries provenance',async({page})=>{
+ await page.goto('/indicators/population/');
+ await page.getByRole('button',{name:'数据表',exact:true}).click();
+ await page.getByLabel('查看全部年度',{exact:true}).check();
+ await page.getByLabel('搜索省份',{exact:true}).fill('北京');
+ await expect(page.locator('tbody tr')).toHaveCount(10);
+ await page.reload();await expect(page.locator('tbody tr')).toHaveCount(10);
+ const [csvDownload]=await Promise.all([page.waitForEvent('download'),page.getByRole('button',{name:'下载当前筛选 CSV'}).click()]);
+ const csv=fs.readFileSync((await csvDownload.path())!,'utf8');expect(csv.trim().split('\r\n')).toHaveLength(11);
+ await page.getByLabel('快速查看省份',{exact:true}).selectOption('110000');
+ const [svgDownload]=await Promise.all([page.waitForEvent('download'),page.getByRole('button',{name:'下载 SVG 图表'}).click()]);
+ const svg=fs.readFileSync((await svgDownload.path())!,'utf8');expect(svg).toContain('<svg');expect(svg).toContain('万人');expect(svg).toContain('stats.gov.cn');expect(svg).toContain('2015–2024');expect(svg).toContain('<desc>');
+});
