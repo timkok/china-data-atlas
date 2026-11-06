@@ -1,0 +1,1 @@
+import Link from 'next/link';export default function NotFound(){return <section className="wrap section"><p className="eyebrow">404 · NOT FOUND</p><h1 className="page-title">这份数据还未上架。</h1><p className="lead">请从已核验的指标中继续探索。</p><Link className="button primary" href="/indicators/">浏览全部指标 →</Link></section>}

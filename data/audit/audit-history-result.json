@@ -1,0 +1,6151 @@
+{
+  "scope": "All 768 historical source cells: population and urbanization 2015–2023; income 2018–2023; national + 31 provinces. Independent visual transcription compared to data/reviewed.",
+  "checked_cells": 768,
+  "differences": [],
+  "checks": [
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "全国",
+      "expected": 138326,
+      "actual": 138326.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "北京",
+      "expected": 2188,
+      "actual": 2188.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "天津",
+      "expected": 1439,
+      "actual": 1439.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "河北",
+      "expected": 7345,
+      "actual": 7345.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "山西",
+      "expected": 3519,
+      "actual": 3519.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "内蒙古",
+      "expected": 2440,
+      "actual": 2440.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "辽宁",
+      "expected": 4338,
+      "actual": 4338.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "吉林",
+      "expected": 2613,
+      "actual": 2613.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "黑龙江",
+      "expected": 3529,
+      "actual": 3529.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "上海",
+      "expected": 2458,
+      "actual": 2458.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "江苏",
+      "expected": 8315,
+      "actual": 8315.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "浙江",
+      "expected": 5985,
+      "actual": 5985.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "安徽",
+      "expected": 6011,
+      "actual": 6011.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "福建",
+      "expected": 3984,
+      "actual": 3984.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "江西",
+      "expected": 4485,
+      "actual": 4485.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "山东",
+      "expected": 9866,
+      "actual": 9866.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "河南",
+      "expected": 9701,
+      "actual": 9701.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "湖北",
+      "expected": 5850,
+      "actual": 5850.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "湖南",
+      "expected": 6615,
+      "actual": 6615.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "广东",
+      "expected": 11678,
+      "actual": 11678.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "广西",
+      "expected": 4811,
+      "actual": 4811.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "海南",
+      "expected": 945,
+      "actual": 945.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "重庆",
+      "expected": 3070,
+      "actual": 3070.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "四川",
+      "expected": 8196,
+      "actual": 8196.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "贵州",
+      "expected": 3708,
+      "actual": 3708.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "云南",
+      "expected": 4663,
+      "actual": 4663.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "西藏",
+      "expected": 330,
+      "actual": 330.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "陕西",
+      "expected": 3846,
+      "actual": 3846.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "甘肃",
+      "expected": 2523,
+      "actual": 2523.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "青海",
+      "expected": 577,
+      "actual": 577.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "宁夏",
+      "expected": 684,
+      "actual": 684.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2015,
+      "region": "新疆",
+      "expected": 2385,
+      "actual": 2385.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "全国",
+      "expected": 141212,
+      "actual": 141212.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "北京",
+      "expected": 2189,
+      "actual": 2189.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "天津",
+      "expected": 1387,
+      "actual": 1387.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "河北",
+      "expected": 7464,
+      "actual": 7464.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "山西",
+      "expected": 3490,
+      "actual": 3490.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "内蒙古",
+      "expected": 2403,
+      "actual": 2403.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "辽宁",
+      "expected": 4255,
+      "actual": 4255.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "吉林",
+      "expected": 2399,
+      "actual": 2399.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "黑龙江",
+      "expected": 3171,
+      "actual": 3171.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "上海",
+      "expected": 2488,
+      "actual": 2488.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "江苏",
+      "expected": 8477,
+      "actual": 8477.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "浙江",
+      "expected": 6468,
+      "actual": 6468.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "安徽",
+      "expected": 6105,
+      "actual": 6105.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "福建",
+      "expected": 4161,
+      "actual": 4161.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "江西",
+      "expected": 4519,
+      "actual": 4519.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "山东",
+      "expected": 10165,
+      "actual": 10165.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "河南",
+      "expected": 9941,
+      "actual": 9941.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "湖北",
+      "expected": 5745,
+      "actual": 5745.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "湖南",
+      "expected": 6645,
+      "actual": 6645.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "广东",
+      "expected": 12624,
+      "actual": 12624.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "广西",
+      "expected": 5019,
+      "actual": 5019.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "海南",
+      "expected": 1012,
+      "actual": 1012.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "重庆",
+      "expected": 3209,
+      "actual": 3209.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "四川",
+      "expected": 8371,
+      "actual": 8371.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "贵州",
+      "expected": 3858,
+      "actual": 3858.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "云南",
+      "expected": 4722,
+      "actual": 4722.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "西藏",
+      "expected": 366,
+      "actual": 366.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "陕西",
+      "expected": 3955,
+      "actual": 3955.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "甘肃",
+      "expected": 2501,
+      "actual": 2501.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "青海",
+      "expected": 593,
+      "actual": 593.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "宁夏",
+      "expected": 721,
+      "actual": 721.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2020,
+      "region": "新疆",
+      "expected": 2590,
+      "actual": 2590.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "全国",
+      "expected": 140967,
+      "actual": 140967.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "北京",
+      "expected": 2186,
+      "actual": 2186.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "天津",
+      "expected": 1364,
+      "actual": 1364.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "河北",
+      "expected": 7393,
+      "actual": 7393.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "山西",
+      "expected": 3466,
+      "actual": 3466.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "内蒙古",
+      "expected": 2396,
+      "actual": 2396.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "辽宁",
+      "expected": 4182,
+      "actual": 4182.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "吉林",
+      "expected": 2339,
+      "actual": 2339.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "黑龙江",
+      "expected": 3062,
+      "actual": 3062.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "上海",
+      "expected": 2487,
+      "actual": 2487.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "江苏",
+      "expected": 8526,
+      "actual": 8526.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "浙江",
+      "expected": 6627,
+      "actual": 6627.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "安徽",
+      "expected": 6121,
+      "actual": 6121.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "福建",
+      "expected": 4183,
+      "actual": 4183.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "江西",
+      "expected": 4515,
+      "actual": 4515.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "山东",
+      "expected": 10123,
+      "actual": 10123.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "河南",
+      "expected": 9815,
+      "actual": 9815.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "湖北",
+      "expected": 5838,
+      "actual": 5838.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "湖南",
+      "expected": 6568,
+      "actual": 6568.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "广东",
+      "expected": 12706,
+      "actual": 12706.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "广西",
+      "expected": 5027,
+      "actual": 5027.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "海南",
+      "expected": 1043,
+      "actual": 1043.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "重庆",
+      "expected": 3191,
+      "actual": 3191.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "四川",
+      "expected": 8368,
+      "actual": 8368.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "贵州",
+      "expected": 3865,
+      "actual": 3865.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "云南",
+      "expected": 4673,
+      "actual": 4673.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "西藏",
+      "expected": 365,
+      "actual": 365.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "陕西",
+      "expected": 3952,
+      "actual": 3952.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "甘肃",
+      "expected": 2465,
+      "actual": 2465.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "青海",
+      "expected": 594,
+      "actual": 594.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "宁夏",
+      "expected": 729,
+      "actual": 729.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2023,
+      "region": "新疆",
+      "expected": 2598,
+      "actual": 2598.0,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "全国",
+      "expected": 57.33,
+      "actual": 57.33,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "北京",
+      "expected": 86.71,
+      "actual": 86.71,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "天津",
+      "expected": 82.88,
+      "actual": 82.88,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "河北",
+      "expected": 51.67,
+      "actual": 51.67,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "山西",
+      "expected": 55.87,
+      "actual": 55.87,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "内蒙古",
+      "expected": 62.09,
+      "actual": 62.09,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "辽宁",
+      "expected": 68.05,
+      "actual": 68.05,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "吉林",
+      "expected": 57.64,
+      "actual": 57.64,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "黑龙江",
+      "expected": 60.47,
+      "actual": 60.47,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "上海",
+      "expected": 88.53,
+      "actual": 88.53,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "江苏",
+      "expected": 67.49,
+      "actual": 67.49,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "浙江",
+      "expected": 66.32,
+      "actual": 66.32,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "安徽",
+      "expected": 50.97,
+      "actual": 50.97,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "福建",
+      "expected": 63.22,
+      "actual": 63.22,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "江西",
+      "expected": 52.3,
+      "actual": 52.3,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "山东",
+      "expected": 56.97,
+      "actual": 56.97,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "河南",
+      "expected": 47.02,
+      "actual": 47.02,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "湖北",
+      "expected": 57.18,
+      "actual": 57.18,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "湖南",
+      "expected": 50.79,
+      "actual": 50.79,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "广东",
+      "expected": 69.51,
+      "actual": 69.51,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "广西",
+      "expected": 47.99,
+      "actual": 47.99,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "海南",
+      "expected": 54.91,
+      "actual": 54.91,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "重庆",
+      "expected": 61.47,
+      "actual": 61.47,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "四川",
+      "expected": 48.27,
+      "actual": 48.27,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "贵州",
+      "expected": 42.96,
+      "actual": 42.96,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "云南",
+      "expected": 42.93,
+      "actual": 42.93,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "西藏",
+      "expected": 28.87,
+      "actual": 28.87,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "陕西",
+      "expected": 54.74,
+      "actual": 54.74,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "甘肃",
+      "expected": 44.24,
+      "actual": 44.24,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "青海",
+      "expected": 51.67,
+      "actual": 51.67,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "宁夏",
+      "expected": 56.98,
+      "actual": 56.98,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2015,
+      "region": "新疆",
+      "expected": 48.78,
+      "actual": 48.78,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "全国",
+      "expected": 63.89,
+      "actual": 63.89,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "北京",
+      "expected": 87.55,
+      "actual": 87.55,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "天津",
+      "expected": 84.7,
+      "actual": 84.7,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "河北",
+      "expected": 60.07,
+      "actual": 60.07,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "山西",
+      "expected": 62.53,
+      "actual": 62.53,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "内蒙古",
+      "expected": 67.48,
+      "actual": 67.48,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "辽宁",
+      "expected": 72.14,
+      "actual": 72.14,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "吉林",
+      "expected": 62.64,
+      "actual": 62.64,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "黑龙江",
+      "expected": 65.61,
+      "actual": 65.61,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "上海",
+      "expected": 89.3,
+      "actual": 89.3,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "江苏",
+      "expected": 73.44,
+      "actual": 73.44,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "浙江",
+      "expected": 72.17,
+      "actual": 72.17,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "安徽",
+      "expected": 58.33,
+      "actual": 58.33,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "福建",
+      "expected": 68.75,
+      "actual": 68.75,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "江西",
+      "expected": 60.44,
+      "actual": 60.44,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "山东",
+      "expected": 63.05,
+      "actual": 63.05,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "河南",
+      "expected": 55.43,
+      "actual": 55.43,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "湖北",
+      "expected": 62.89,
+      "actual": 62.89,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "湖南",
+      "expected": 58.76,
+      "actual": 58.76,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "广东",
+      "expected": 74.15,
+      "actual": 74.15,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "广西",
+      "expected": 54.2,
+      "actual": 54.2,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "海南",
+      "expected": 60.27,
+      "actual": 60.27,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "重庆",
+      "expected": 69.46,
+      "actual": 69.46,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "四川",
+      "expected": 56.73,
+      "actual": 56.73,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "贵州",
+      "expected": 53.15,
+      "actual": 53.15,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "云南",
+      "expected": 50.05,
+      "actual": 50.05,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "西藏",
+      "expected": 35.73,
+      "actual": 35.73,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "陕西",
+      "expected": 62.66,
+      "actual": 62.66,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "甘肃",
+      "expected": 52.23,
+      "actual": 52.23,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "青海",
+      "expected": 60.08,
+      "actual": 60.08,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "宁夏",
+      "expected": 64.96,
+      "actual": 64.96,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2020,
+      "region": "新疆",
+      "expected": 56.53,
+      "actual": 56.53,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "全国",
+      "expected": 66.16,
+      "actual": 66.16,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "北京",
+      "expected": 87.83,
+      "actual": 87.83,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "天津",
+      "expected": 85.49,
+      "actual": 85.49,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "河北",
+      "expected": 62.77,
+      "actual": 62.77,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "山西",
+      "expected": 64.97,
+      "actual": 64.97,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "内蒙古",
+      "expected": 69.58,
+      "actual": 69.58,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "辽宁",
+      "expected": 73.51,
+      "actual": 73.51,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "吉林",
+      "expected": 64.73,
+      "actual": 64.73,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "黑龙江",
+      "expected": 67.11,
+      "actual": 67.11,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "上海",
+      "expected": 89.46,
+      "actual": 89.46,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "江苏",
+      "expected": 75.04,
+      "actual": 75.04,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "浙江",
+      "expected": 74.23,
+      "actual": 74.23,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "安徽",
+      "expected": 61.51,
+      "actual": 61.51,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "福建",
+      "expected": 71.04,
+      "actual": 71.04,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "江西",
+      "expected": 63.13,
+      "actual": 63.13,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "山东",
+      "expected": 65.53,
+      "actual": 65.53,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "河南",
+      "expected": 58.08,
+      "actual": 58.08,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "湖北",
+      "expected": 65.47,
+      "actual": 65.47,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "湖南",
+      "expected": 61.16,
+      "actual": 61.16,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "广东",
+      "expected": 75.42,
+      "actual": 75.42,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "广西",
+      "expected": 56.78,
+      "actual": 56.78,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "海南",
+      "expected": 62.46,
+      "actual": 62.46,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "重庆",
+      "expected": 71.67,
+      "actual": 71.67,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "四川",
+      "expected": 59.49,
+      "actual": 59.49,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "贵州",
+      "expected": 55.94,
+      "actual": 55.94,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "云南",
+      "expected": 52.92,
+      "actual": 52.92,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "西藏",
+      "expected": 38.88,
+      "actual": 38.88,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "陕西",
+      "expected": 65.16,
+      "actual": 65.16,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "甘肃",
+      "expected": 55.49,
+      "actual": 55.49,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "青海",
+      "expected": 62.8,
+      "actual": 62.8,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "宁夏",
+      "expected": 67.31,
+      "actual": 67.31,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2023,
+      "region": "新疆",
+      "expected": 59.24,
+      "actual": 59.24,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "全国",
+      "expected": 28228,
+      "actual": 28228.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "北京",
+      "expected": 62361,
+      "actual": 62361.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "天津",
+      "expected": 39506,
+      "actual": 39506.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "河北",
+      "expected": 23446,
+      "actual": 23446.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "山西",
+      "expected": 21990,
+      "actual": 21990.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "内蒙古",
+      "expected": 28376,
+      "actual": 28376.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "辽宁",
+      "expected": 29701,
+      "actual": 29701.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "吉林",
+      "expected": 22798,
+      "actual": 22798.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "黑龙江",
+      "expected": 22726,
+      "actual": 22726.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "上海",
+      "expected": 64183,
+      "actual": 64183.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "江苏",
+      "expected": 38096,
+      "actual": 38096.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "浙江",
+      "expected": 45840,
+      "actual": 45840.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "安徽",
+      "expected": 23984,
+      "actual": 23984.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "福建",
+      "expected": 32644,
+      "actual": 32644.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "江西",
+      "expected": 24080,
+      "actual": 24080.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "山东",
+      "expected": 29205,
+      "actual": 29205.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "河南",
+      "expected": 21964,
+      "actual": 21964.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "湖北",
+      "expected": 25815,
+      "actual": 25815.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "湖南",
+      "expected": 25241,
+      "actual": 25241.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "广东",
+      "expected": 35810,
+      "actual": 35810.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "广西",
+      "expected": 21485,
+      "actual": 21485.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "海南",
+      "expected": 24579,
+      "actual": 24579.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "重庆",
+      "expected": 26386,
+      "actual": 26386.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "四川",
+      "expected": 22461,
+      "actual": 22461.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "贵州",
+      "expected": 18430,
+      "actual": 18430.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "云南",
+      "expected": 20084,
+      "actual": 20084.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "西藏",
+      "expected": 17286,
+      "actual": 17286.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "陕西",
+      "expected": 22528,
+      "actual": 22528.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "甘肃",
+      "expected": 17488,
+      "actual": 17488.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "青海",
+      "expected": 20757,
+      "actual": 20757.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "宁夏",
+      "expected": 22400,
+      "actual": 22400.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2018,
+      "region": "新疆",
+      "expected": 21500,
+      "actual": 21500.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "全国",
+      "expected": 32189,
+      "actual": 32189.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "北京",
+      "expected": 69434,
+      "actual": 69434.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "天津",
+      "expected": 43854,
+      "actual": 43854.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "河北",
+      "expected": 27136,
+      "actual": 27136.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "山西",
+      "expected": 25214,
+      "actual": 25214.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "内蒙古",
+      "expected": 31497,
+      "actual": 31497.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "辽宁",
+      "expected": 32738,
+      "actual": 32738.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "吉林",
+      "expected": 25751,
+      "actual": 25751.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "黑龙江",
+      "expected": 24902,
+      "actual": 24902.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "上海",
+      "expected": 72232,
+      "actual": 72232.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "江苏",
+      "expected": 43390,
+      "actual": 43390.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "浙江",
+      "expected": 52397,
+      "actual": 52397.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "安徽",
+      "expected": 28103,
+      "actual": 28103.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "福建",
+      "expected": 37202,
+      "actual": 37202.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "江西",
+      "expected": 28017,
+      "actual": 28017.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "山东",
+      "expected": 32886,
+      "actual": 32886.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "河南",
+      "expected": 24810,
+      "actual": 24810.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "湖北",
+      "expected": 27881,
+      "actual": 27881.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "湖南",
+      "expected": 29380,
+      "actual": 29380.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "广东",
+      "expected": 41029,
+      "actual": 41029.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "广西",
+      "expected": 24562,
+      "actual": 24562.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "海南",
+      "expected": 27904,
+      "actual": 27904.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "重庆",
+      "expected": 30824,
+      "actual": 30824.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "四川",
+      "expected": 26522,
+      "actual": 26522.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "贵州",
+      "expected": 21795,
+      "actual": 21795.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "云南",
+      "expected": 23295,
+      "actual": 23295.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "西藏",
+      "expected": 21744,
+      "actual": 21744.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "陕西",
+      "expected": 26226,
+      "actual": 26226.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "甘肃",
+      "expected": 20335,
+      "actual": 20335.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "青海",
+      "expected": 24037,
+      "actual": 24037.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "宁夏",
+      "expected": 25735,
+      "actual": 25735.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2020,
+      "region": "新疆",
+      "expected": 23845,
+      "actual": 23845.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "全国",
+      "expected": 39218,
+      "actual": 39218.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "北京",
+      "expected": 81752,
+      "actual": 81752.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "天津",
+      "expected": 51271,
+      "actual": 51271.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "河北",
+      "expected": 32903,
+      "actual": 32903.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "山西",
+      "expected": 30924,
+      "actual": 30924.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "内蒙古",
+      "expected": 38130,
+      "actual": 38130.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "辽宁",
+      "expected": 37992,
+      "actual": 37992.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "吉林",
+      "expected": 29797,
+      "actual": 29797.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "黑龙江",
+      "expected": 29694,
+      "actual": 29694.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "上海",
+      "expected": 84834,
+      "actual": 84834.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "江苏",
+      "expected": 52674,
+      "actual": 52674.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "浙江",
+      "expected": 63830,
+      "actual": 63830.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "安徽",
+      "expected": 34893,
+      "actual": 34893.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "福建",
+      "expected": 45426,
+      "actual": 45426.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "江西",
+      "expected": 34242,
+      "actual": 34242.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "山东",
+      "expected": 39890,
+      "actual": 39890.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "河南",
+      "expected": 29933,
+      "actual": 29933.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "湖北",
+      "expected": 35146,
+      "actual": 35146.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "湖南",
+      "expected": 35895,
+      "actual": 35895.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "广东",
+      "expected": 49327,
+      "actual": 49327.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "广西",
+      "expected": 29514,
+      "actual": 29514.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "海南",
+      "expected": 33192,
+      "actual": 33192.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "重庆",
+      "expected": 37595,
+      "actual": 37595.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "四川",
+      "expected": 32514,
+      "actual": 32514.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "贵州",
+      "expected": 27098,
+      "actual": 27098.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "云南",
+      "expected": 28421,
+      "actual": 28421.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "西藏",
+      "expected": 28983,
+      "actual": 28983.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "陕西",
+      "expected": 32128,
+      "actual": 32128.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "甘肃",
+      "expected": 25011,
+      "actual": 25011.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "青海",
+      "expected": 28587,
+      "actual": 28587.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "宁夏",
+      "expected": 31604,
+      "actual": 31604.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2023,
+      "region": "新疆",
+      "expected": 28947,
+      "actual": 28947.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "全国",
+      "expected": 139232.0,
+      "actual": 139232.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "北京",
+      "expected": 2195.0,
+      "actual": 2195.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "天津",
+      "expected": 1443.0,
+      "actual": 1443.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "河北",
+      "expected": 7375.0,
+      "actual": 7375.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "山西",
+      "expected": 3514.0,
+      "actual": 3514.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "内蒙古",
+      "expected": 2436.0,
+      "actual": 2436.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "辽宁",
+      "expected": 4327.0,
+      "actual": 4327.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "吉林",
+      "expected": 2567.0,
+      "actual": 2567.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "黑龙江",
+      "expected": 3463.0,
+      "actual": 3463.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "上海",
+      "expected": 2467.0,
+      "actual": 2467.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "江苏",
+      "expected": 8381.0,
+      "actual": 8381.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "浙江",
+      "expected": 6072.0,
+      "actual": 6072.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "安徽",
+      "expected": 6033.0,
+      "actual": 6033.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "福建",
+      "expected": 4016.0,
+      "actual": 4016.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "江西",
+      "expected": 4496.0,
+      "actual": 4496.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "山东",
+      "expected": 9973.0,
+      "actual": 9973.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "河南",
+      "expected": 9778.0,
+      "actual": 9778.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "湖北",
+      "expected": 5885.0,
+      "actual": 5885.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "湖南",
+      "expected": 6625.0,
+      "actual": 6625.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "广东",
+      "expected": 11908.0,
+      "actual": 11908.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "广西",
+      "expected": 4857.0,
+      "actual": 4857.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "海南",
+      "expected": 957.0,
+      "actual": 957.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "重庆",
+      "expected": 3110.0,
+      "actual": 3110.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "四川",
+      "expected": 8251.0,
+      "actual": 8251.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "贵州",
+      "expected": 3758.0,
+      "actual": 3758.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "云南",
+      "expected": 4677.0,
+      "actual": 4677.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "西藏",
+      "expected": 340.0,
+      "actual": 340.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "陕西",
+      "expected": 3874.0,
+      "actual": 3874.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "甘肃",
+      "expected": 2520.0,
+      "actual": 2520.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "青海",
+      "expected": 582.0,
+      "actual": 582.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "宁夏",
+      "expected": 695.0,
+      "actual": 695.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2016,
+      "region": "新疆",
+      "expected": 2428.0,
+      "actual": 2428.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "全国",
+      "expected": 140011.0,
+      "actual": 140011.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "北京",
+      "expected": 2194.0,
+      "actual": 2194.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "天津",
+      "expected": 1410.0,
+      "actual": 1410.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "河北",
+      "expected": 7409.0,
+      "actual": 7409.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "山西",
+      "expected": 3510.0,
+      "actual": 3510.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "内蒙古",
+      "expected": 2433.0,
+      "actual": 2433.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "辽宁",
+      "expected": 4312.0,
+      "actual": 4312.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "吉林",
+      "expected": 2526.0,
+      "actual": 2526.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "黑龙江",
+      "expected": 3399.0,
+      "actual": 3399.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "上海",
+      "expected": 2466.0,
+      "actual": 2466.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "江苏",
+      "expected": 8423.0,
+      "actual": 8423.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "浙江",
+      "expected": 6170.0,
+      "actual": 6170.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "安徽",
+      "expected": 6057.0,
+      "actual": 6057.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "福建",
+      "expected": 4065.0,
+      "actual": 4065.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "江西",
+      "expected": 4511.0,
+      "actual": 4511.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "山东",
+      "expected": 10033.0,
+      "actual": 10033.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "河南",
+      "expected": 9829.0,
+      "actual": 9829.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "湖北",
+      "expected": 5904.0,
+      "actual": 5904.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "湖南",
+      "expected": 6633.0,
+      "actual": 6633.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "广东",
+      "expected": 12141.0,
+      "actual": 12141.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "广西",
+      "expected": 4907.0,
+      "actual": 4907.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "海南",
+      "expected": 972.0,
+      "actual": 972.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "重庆",
+      "expected": 3144.0,
+      "actual": 3144.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "四川",
+      "expected": 8289.0,
+      "actual": 8289.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "贵州",
+      "expected": 3803.0,
+      "actual": 3803.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "云南",
+      "expected": 4693.0,
+      "actual": 4693.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "西藏",
+      "expected": 349.0,
+      "actual": 349.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "陕西",
+      "expected": 3904.0,
+      "actual": 3904.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "甘肃",
+      "expected": 2522.0,
+      "actual": 2522.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "青海",
+      "expected": 586.0,
+      "actual": 586.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "宁夏",
+      "expected": 705.0,
+      "actual": 705.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2017,
+      "region": "新疆",
+      "expected": 2480.0,
+      "actual": 2480.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "全国",
+      "expected": 140541.0,
+      "actual": 140541.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "北京",
+      "expected": 2192.0,
+      "actual": 2192.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "天津",
+      "expected": 1383.0,
+      "actual": 1383.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "河北",
+      "expected": 7426.0,
+      "actual": 7426.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "山西",
+      "expected": 3502.0,
+      "actual": 3502.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "内蒙古",
+      "expected": 2422.0,
+      "actual": 2422.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "辽宁",
+      "expected": 4291.0,
+      "actual": 4291.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "吉林",
+      "expected": 2484.0,
+      "actual": 2484.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "黑龙江",
+      "expected": 3327.0,
+      "actual": 3327.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "上海",
+      "expected": 2475.0,
+      "actual": 2475.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "江苏",
+      "expected": 8446.0,
+      "actual": 8446.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "浙江",
+      "expected": 6273.0,
+      "actual": 6273.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "安徽",
+      "expected": 6076.0,
+      "actual": 6076.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "福建",
+      "expected": 4104.0,
+      "actual": 4104.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "江西",
+      "expected": 4513.0,
+      "actual": 4513.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "山东",
+      "expected": 10077.0,
+      "actual": 10077.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "河南",
+      "expected": 9864.0,
+      "actual": 9864.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "湖北",
+      "expected": 5917.0,
+      "actual": 5917.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "湖南",
+      "expected": 6635.0,
+      "actual": 6635.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "广东",
+      "expected": 12348.0,
+      "actual": 12348.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "广西",
+      "expected": 4947.0,
+      "actual": 4947.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "海南",
+      "expected": 982.0,
+      "actual": 982.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "重庆",
+      "expected": 3163.0,
+      "actual": 3163.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "四川",
+      "expected": 8321.0,
+      "actual": 8321.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "贵州",
+      "expected": 3822.0,
+      "actual": 3822.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "云南",
+      "expected": 4703.0,
+      "actual": 4703.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "西藏",
+      "expected": 354.0,
+      "actual": 354.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "陕西",
+      "expected": 3931.0,
+      "actual": 3931.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "甘肃",
+      "expected": 2515.0,
+      "actual": 2515.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "青海",
+      "expected": 587.0,
+      "actual": 587.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "宁夏",
+      "expected": 710.0,
+      "actual": 710.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2018,
+      "region": "新疆",
+      "expected": 2520.0,
+      "actual": 2520.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "全国",
+      "expected": 141008.0,
+      "actual": 141008.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "北京",
+      "expected": 2190.0,
+      "actual": 2190.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "天津",
+      "expected": 1385.0,
+      "actual": 1385.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "河北",
+      "expected": 7447.0,
+      "actual": 7447.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "山西",
+      "expected": 3497.0,
+      "actual": 3497.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "内蒙古",
+      "expected": 2415.0,
+      "actual": 2415.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "辽宁",
+      "expected": 4277.0,
+      "actual": 4277.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "吉林",
+      "expected": 2448.0,
+      "actual": 2448.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "黑龙江",
+      "expected": 3255.0,
+      "actual": 3255.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "上海",
+      "expected": 2481.0,
+      "actual": 2481.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "江苏",
+      "expected": 8469.0,
+      "actual": 8469.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "浙江",
+      "expected": 6375.0,
+      "actual": 6375.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "安徽",
+      "expected": 6092.0,
+      "actual": 6092.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "福建",
+      "expected": 4137.0,
+      "actual": 4137.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "江西",
+      "expected": 4516.0,
+      "actual": 4516.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "山东",
+      "expected": 10106.0,
+      "actual": 10106.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "河南",
+      "expected": 9901.0,
+      "actual": 9901.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "湖北",
+      "expected": 5927.0,
+      "actual": 5927.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "湖南",
+      "expected": 6640.0,
+      "actual": 6640.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "广东",
+      "expected": 12489.0,
+      "actual": 12489.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "广西",
+      "expected": 4982.0,
+      "actual": 4982.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "海南",
+      "expected": 995.0,
+      "actual": 995.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "重庆",
+      "expected": 3188.0,
+      "actual": 3188.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "四川",
+      "expected": 8351.0,
+      "actual": 8351.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "贵州",
+      "expected": 3848.0,
+      "actual": 3848.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "云南",
+      "expected": 4714.0,
+      "actual": 4714.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "西藏",
+      "expected": 361.0,
+      "actual": 361.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "陕西",
+      "expected": 3944.0,
+      "actual": 3944.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "甘肃",
+      "expected": 2509.0,
+      "actual": 2509.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "青海",
+      "expected": 590.0,
+      "actual": 590.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "宁夏",
+      "expected": 717.0,
+      "actual": 717.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2019,
+      "region": "新疆",
+      "expected": 2559.0,
+      "actual": 2559.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "全国",
+      "expected": 141260.0,
+      "actual": 141260.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "北京",
+      "expected": 2189.0,
+      "actual": 2189.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "天津",
+      "expected": 1373.0,
+      "actual": 1373.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "河北",
+      "expected": 7448.0,
+      "actual": 7448.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "山西",
+      "expected": 3480.0,
+      "actual": 3480.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "内蒙古",
+      "expected": 2400.0,
+      "actual": 2400.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "辽宁",
+      "expected": 4229.0,
+      "actual": 4229.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "吉林",
+      "expected": 2375.0,
+      "actual": 2375.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "黑龙江",
+      "expected": 3125.0,
+      "actual": 3125.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "上海",
+      "expected": 2489.0,
+      "actual": 2489.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "江苏",
+      "expected": 8505.0,
+      "actual": 8505.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "浙江",
+      "expected": 6540.0,
+      "actual": 6540.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "安徽",
+      "expected": 6113.0,
+      "actual": 6113.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "福建",
+      "expected": 4187.0,
+      "actual": 4187.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "江西",
+      "expected": 4517.0,
+      "actual": 4517.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "山东",
+      "expected": 10170.0,
+      "actual": 10170.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "河南",
+      "expected": 9883.0,
+      "actual": 9883.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "湖北",
+      "expected": 5830.0,
+      "actual": 5830.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "湖南",
+      "expected": 6622.0,
+      "actual": 6622.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "广东",
+      "expected": 12684.0,
+      "actual": 12684.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "广西",
+      "expected": 5037.0,
+      "actual": 5037.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "海南",
+      "expected": 1020.0,
+      "actual": 1020.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "重庆",
+      "expected": 3212.0,
+      "actual": 3212.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "四川",
+      "expected": 8372.0,
+      "actual": 8372.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "贵州",
+      "expected": 3852.0,
+      "actual": 3852.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "云南",
+      "expected": 4690.0,
+      "actual": 4690.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "西藏",
+      "expected": 366.0,
+      "actual": 366.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "陕西",
+      "expected": 3954.0,
+      "actual": 3954.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "甘肃",
+      "expected": 2490.0,
+      "actual": 2490.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "青海",
+      "expected": 594.0,
+      "actual": 594.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "宁夏",
+      "expected": 725.0,
+      "actual": 725.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2021,
+      "region": "新疆",
+      "expected": 2589.0,
+      "actual": 2589.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "全国",
+      "expected": 141175.0,
+      "actual": 141175.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "北京",
+      "expected": 2184.0,
+      "actual": 2184.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "天津",
+      "expected": 1363.0,
+      "actual": 1363.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "河北",
+      "expected": 7420.0,
+      "actual": 7420.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "山西",
+      "expected": 3481.0,
+      "actual": 3481.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "内蒙古",
+      "expected": 2401.0,
+      "actual": 2401.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "辽宁",
+      "expected": 4197.0,
+      "actual": 4197.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "吉林",
+      "expected": 2348.0,
+      "actual": 2348.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "黑龙江",
+      "expected": 3099.0,
+      "actual": 3099.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "上海",
+      "expected": 2475.0,
+      "actual": 2475.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "江苏",
+      "expected": 8515.0,
+      "actual": 8515.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "浙江",
+      "expected": 6577.0,
+      "actual": 6577.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "安徽",
+      "expected": 6127.0,
+      "actual": 6127.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "福建",
+      "expected": 4188.0,
+      "actual": 4188.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "江西",
+      "expected": 4528.0,
+      "actual": 4528.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "山东",
+      "expected": 10163.0,
+      "actual": 10163.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "河南",
+      "expected": 9872.0,
+      "actual": 9872.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "湖北",
+      "expected": 5844.0,
+      "actual": 5844.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "湖南",
+      "expected": 6604.0,
+      "actual": 6604.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "广东",
+      "expected": 12657.0,
+      "actual": 12657.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "广西",
+      "expected": 5047.0,
+      "actual": 5047.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "海南",
+      "expected": 1027.0,
+      "actual": 1027.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "重庆",
+      "expected": 3213.0,
+      "actual": 3213.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "四川",
+      "expected": 8374.0,
+      "actual": 8374.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "贵州",
+      "expected": 3856.0,
+      "actual": 3856.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "云南",
+      "expected": 4693.0,
+      "actual": 4693.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "西藏",
+      "expected": 364.0,
+      "actual": 364.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "陕西",
+      "expected": 3956.0,
+      "actual": 3956.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "甘肃",
+      "expected": 2492.0,
+      "actual": 2492.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "青海",
+      "expected": 595.0,
+      "actual": 595.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "宁夏",
+      "expected": 728.0,
+      "actual": 728.0,
+      "pass": true
+    },
+    {
+      "indicator": "population",
+      "year": 2022,
+      "region": "新疆",
+      "expected": 2587.0,
+      "actual": 2587.0,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "全国",
+      "expected": 58.84,
+      "actual": 58.84,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "北京",
+      "expected": 86.76,
+      "actual": 86.76,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "天津",
+      "expected": 83.27,
+      "actual": 83.27,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "河北",
+      "expected": 53.87,
+      "actual": 53.87,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "山西",
+      "expected": 57.27,
+      "actual": 57.27,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "内蒙古",
+      "expected": 63.4,
+      "actual": 63.4,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "辽宁",
+      "expected": 68.87,
+      "actual": 68.87,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "吉林",
+      "expected": 58.75,
+      "actual": 58.75,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "黑龙江",
+      "expected": 61.09,
+      "actual": 61.09,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "上海",
+      "expected": 89.0,
+      "actual": 89.0,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "江苏",
+      "expected": 68.93,
+      "actual": 68.93,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "浙江",
+      "expected": 67.72,
+      "actual": 67.72,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "安徽",
+      "expected": 52.62,
+      "actual": 52.62,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "福建",
+      "expected": 64.39,
+      "actual": 64.39,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "江西",
+      "expected": 53.99,
+      "actual": 53.99,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "山东",
+      "expected": 59.13,
+      "actual": 59.13,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "河南",
+      "expected": 48.78,
+      "actual": 48.78,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "湖北",
+      "expected": 58.57,
+      "actual": 58.57,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "湖南",
+      "expected": 52.7,
+      "actual": 52.7,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "广东",
+      "expected": 70.15,
+      "actual": 70.15,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "广西",
+      "expected": 49.24,
+      "actual": 49.24,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "海南",
+      "expected": 56.7,
+      "actual": 56.7,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "重庆",
+      "expected": 63.33,
+      "actual": 63.33,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "四川",
+      "expected": 50.0,
+      "actual": 50.0,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "贵州",
+      "expected": 45.56,
+      "actual": 45.56,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "云南",
+      "expected": 44.64,
+      "actual": 44.64,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "西藏",
+      "expected": 31.57,
+      "actual": 31.57,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "陕西",
+      "expected": 56.39,
+      "actual": 56.39,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "甘肃",
+      "expected": 46.07,
+      "actual": 46.07,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "青海",
+      "expected": 53.55,
+      "actual": 53.55,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "宁夏",
+      "expected": 58.74,
+      "actual": 58.74,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2016,
+      "region": "新疆",
+      "expected": 50.42,
+      "actual": 50.42,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "全国",
+      "expected": 60.24,
+      "actual": 60.24,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "北京",
+      "expected": 86.93,
+      "actual": 86.93,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "天津",
+      "expected": 83.57,
+      "actual": 83.57,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "河北",
+      "expected": 55.74,
+      "actual": 55.74,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "山西",
+      "expected": 58.59,
+      "actual": 58.59,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "内蒙古",
+      "expected": 64.6,
+      "actual": 64.6,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "辽宁",
+      "expected": 69.49,
+      "actual": 69.49,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "吉林",
+      "expected": 59.71,
+      "actual": 59.71,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "黑龙江",
+      "expected": 61.9,
+      "actual": 61.9,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "上海",
+      "expected": 89.1,
+      "actual": 89.1,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "江苏",
+      "expected": 70.18,
+      "actual": 70.18,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "浙江",
+      "expected": 68.91,
+      "actual": 68.91,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "安徽",
+      "expected": 54.29,
+      "actual": 54.29,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "福建",
+      "expected": 65.78,
+      "actual": 65.78,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "江西",
+      "expected": 55.7,
+      "actual": 55.7,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "山东",
+      "expected": 60.79,
+      "actual": 60.79,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "河南",
+      "expected": 50.56,
+      "actual": 50.56,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "湖北",
+      "expected": 59.88,
+      "actual": 59.88,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "湖南",
+      "expected": 54.62,
+      "actual": 54.62,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "广东",
+      "expected": 70.74,
+      "actual": 70.74,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "广西",
+      "expected": 50.59,
+      "actual": 50.59,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "海南",
+      "expected": 58.04,
+      "actual": 58.04,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "重庆",
+      "expected": 65.0,
+      "actual": 65.0,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "四川",
+      "expected": 51.78,
+      "actual": 51.78,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "贵州",
+      "expected": 47.76,
+      "actual": 47.76,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "云南",
+      "expected": 46.29,
+      "actual": 46.29,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "西藏",
+      "expected": 33.38,
+      "actual": 33.38,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "陕西",
+      "expected": 58.07,
+      "actual": 58.07,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "甘肃",
+      "expected": 48.12,
+      "actual": 48.12,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "青海",
+      "expected": 55.45,
+      "actual": 55.45,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "宁夏",
+      "expected": 60.95,
+      "actual": 60.95,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2017,
+      "region": "新疆",
+      "expected": 51.9,
+      "actual": 51.9,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "全国",
+      "expected": 61.5,
+      "actual": 61.5,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "北京",
+      "expected": 87.09,
+      "actual": 87.09,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "天津",
+      "expected": 83.95,
+      "actual": 83.95,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "河北",
+      "expected": 57.33,
+      "actual": 57.33,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "山西",
+      "expected": 59.85,
+      "actual": 59.85,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "内蒙古",
+      "expected": 65.51,
+      "actual": 65.51,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "辽宁",
+      "expected": 70.26,
+      "actual": 70.26,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "吉林",
+      "expected": 60.85,
+      "actual": 60.85,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "黑龙江",
+      "expected": 63.46,
+      "actual": 63.46,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "上海",
+      "expected": 89.13,
+      "actual": 89.13,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "江苏",
+      "expected": 71.19,
+      "actual": 71.19,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "浙江",
+      "expected": 70.02,
+      "actual": 70.02,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "安徽",
+      "expected": 55.65,
+      "actual": 55.65,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "福建",
+      "expected": 66.98,
+      "actual": 66.98,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "江西",
+      "expected": 57.34,
+      "actual": 57.34,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "山东",
+      "expected": 61.46,
+      "actual": 61.46,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "河南",
+      "expected": 52.24,
+      "actual": 52.24,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "湖北",
+      "expected": 61.0,
+      "actual": 61.0,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "湖南",
+      "expected": 56.09,
+      "actual": 56.09,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "广东",
+      "expected": 71.81,
+      "actual": 71.81,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "广西",
+      "expected": 51.82,
+      "actual": 51.82,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "海南",
+      "expected": 59.13,
+      "actual": 59.13,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "重庆",
+      "expected": 66.61,
+      "actual": 66.61,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "四川",
+      "expected": 53.5,
+      "actual": 53.5,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "贵州",
+      "expected": 49.54,
+      "actual": 49.54,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "云南",
+      "expected": 47.44,
+      "actual": 47.44,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "西藏",
+      "expected": 33.8,
+      "actual": 33.8,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "陕西",
+      "expected": 59.65,
+      "actual": 59.65,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "甘肃",
+      "expected": 49.69,
+      "actual": 49.69,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "青海",
+      "expected": 57.27,
+      "actual": 57.27,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "宁夏",
+      "expected": 62.15,
+      "actual": 62.15,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2018,
+      "region": "新疆",
+      "expected": 54.01,
+      "actual": 54.01,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "全国",
+      "expected": 62.71,
+      "actual": 62.71,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "北京",
+      "expected": 87.35,
+      "actual": 87.35,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "天津",
+      "expected": 84.31,
+      "actual": 84.31,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "河北",
+      "expected": 58.77,
+      "actual": 58.77,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "山西",
+      "expected": 61.29,
+      "actual": 61.29,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "内蒙古",
+      "expected": 66.46,
+      "actual": 66.46,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "辽宁",
+      "expected": 71.21,
+      "actual": 71.21,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "吉林",
+      "expected": 61.63,
+      "actual": 61.63,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "黑龙江",
+      "expected": 64.62,
+      "actual": 64.62,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "上海",
+      "expected": 89.22,
+      "actual": 89.22,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "江苏",
+      "expected": 72.47,
+      "actual": 72.47,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "浙江",
+      "expected": 71.58,
+      "actual": 71.58,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "安徽",
+      "expected": 57.02,
+      "actual": 57.02,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "福建",
+      "expected": 67.87,
+      "actual": 67.87,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "江西",
+      "expected": 59.07,
+      "actual": 59.07,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "山东",
+      "expected": 61.86,
+      "actual": 61.86,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "河南",
+      "expected": 54.01,
+      "actual": 54.01,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "湖北",
+      "expected": 61.83,
+      "actual": 61.83,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "湖南",
+      "expected": 57.45,
+      "actual": 57.45,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "广东",
+      "expected": 72.65,
+      "actual": 72.65,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "广西",
+      "expected": 52.98,
+      "actual": 52.98,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "海南",
+      "expected": 59.37,
+      "actual": 59.37,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "重庆",
+      "expected": 68.24,
+      "actual": 68.24,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "四川",
+      "expected": 55.36,
+      "actual": 55.36,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "贵州",
+      "expected": 51.48,
+      "actual": 51.48,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "云南",
+      "expected": 48.67,
+      "actual": 48.67,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "西藏",
+      "expected": 34.51,
+      "actual": 34.51,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "陕西",
+      "expected": 61.28,
+      "actual": 61.28,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "甘肃",
+      "expected": 50.7,
+      "actual": 50.7,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "青海",
+      "expected": 58.78,
+      "actual": 58.78,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "宁夏",
+      "expected": 63.63,
+      "actual": 63.63,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2019,
+      "region": "新疆",
+      "expected": 55.51,
+      "actual": 55.51,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "全国",
+      "expected": 64.72,
+      "actual": 64.72,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "北京",
+      "expected": 87.5,
+      "actual": 87.5,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "天津",
+      "expected": 84.88,
+      "actual": 84.88,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "河北",
+      "expected": 61.14,
+      "actual": 61.14,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "山西",
+      "expected": 63.42,
+      "actual": 63.42,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "内蒙古",
+      "expected": 68.21,
+      "actual": 68.21,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "辽宁",
+      "expected": 72.81,
+      "actual": 72.81,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "吉林",
+      "expected": 63.36,
+      "actual": 63.36,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "黑龙江",
+      "expected": 65.69,
+      "actual": 65.69,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "上海",
+      "expected": 89.3,
+      "actual": 89.3,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "江苏",
+      "expected": 73.94,
+      "actual": 73.94,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "浙江",
+      "expected": 72.66,
+      "actual": 72.66,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "安徽",
+      "expected": 59.39,
+      "actual": 59.39,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "福建",
+      "expected": 69.7,
+      "actual": 69.7,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "江西",
+      "expected": 61.46,
+      "actual": 61.46,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "山东",
+      "expected": 63.94,
+      "actual": 63.94,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "河南",
+      "expected": 56.45,
+      "actual": 56.45,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "湖北",
+      "expected": 64.09,
+      "actual": 64.09,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "湖南",
+      "expected": 59.71,
+      "actual": 59.71,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "广东",
+      "expected": 74.63,
+      "actual": 74.63,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "广西",
+      "expected": 55.08,
+      "actual": 55.08,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "海南",
+      "expected": 60.97,
+      "actual": 60.97,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "重庆",
+      "expected": 70.32,
+      "actual": 70.32,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "四川",
+      "expected": 57.82,
+      "actual": 57.82,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "贵州",
+      "expected": 54.33,
+      "actual": 54.33,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "云南",
+      "expected": 51.05,
+      "actual": 51.05,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "西藏",
+      "expected": 36.61,
+      "actual": 36.61,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "陕西",
+      "expected": 63.63,
+      "actual": 63.63,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "甘肃",
+      "expected": 53.33,
+      "actual": 53.33,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "青海",
+      "expected": 61.02,
+      "actual": 61.02,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "宁夏",
+      "expected": 66.04,
+      "actual": 66.04,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2021,
+      "region": "新疆",
+      "expected": 57.26,
+      "actual": 57.26,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "全国",
+      "expected": 65.22,
+      "actual": 65.22,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "北京",
+      "expected": 87.57,
+      "actual": 87.57,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "天津",
+      "expected": 85.11,
+      "actual": 85.11,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "河北",
+      "expected": 61.65,
+      "actual": 61.65,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "山西",
+      "expected": 63.96,
+      "actual": 63.96,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "内蒙古",
+      "expected": 68.6,
+      "actual": 68.6,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "辽宁",
+      "expected": 73.0,
+      "actual": 73.0,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "吉林",
+      "expected": 63.72,
+      "actual": 63.72,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "黑龙江",
+      "expected": 66.21,
+      "actual": 66.21,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "上海",
+      "expected": 89.33,
+      "actual": 89.33,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "江苏",
+      "expected": 74.42,
+      "actual": 74.42,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "浙江",
+      "expected": 73.38,
+      "actual": 73.38,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "安徽",
+      "expected": 60.15,
+      "actual": 60.15,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "福建",
+      "expected": 70.11,
+      "actual": 70.11,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "江西",
+      "expected": 62.07,
+      "actual": 62.07,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "山东",
+      "expected": 64.54,
+      "actual": 64.54,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "河南",
+      "expected": 57.07,
+      "actual": 57.07,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "湖北",
+      "expected": 64.67,
+      "actual": 64.67,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "湖南",
+      "expected": 60.31,
+      "actual": 60.31,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "广东",
+      "expected": 74.79,
+      "actual": 74.79,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "广西",
+      "expected": 55.65,
+      "actual": 55.65,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "海南",
+      "expected": 61.49,
+      "actual": 61.49,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "重庆",
+      "expected": 70.96,
+      "actual": 70.96,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "四川",
+      "expected": 58.35,
+      "actual": 58.35,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "贵州",
+      "expected": 54.81,
+      "actual": 54.81,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "云南",
+      "expected": 51.72,
+      "actual": 51.72,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "西藏",
+      "expected": 37.39,
+      "actual": 37.39,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "陕西",
+      "expected": 64.02,
+      "actual": 64.02,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "甘肃",
+      "expected": 54.19,
+      "actual": 54.19,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "青海",
+      "expected": 61.43,
+      "actual": 61.43,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "宁夏",
+      "expected": 66.34,
+      "actual": 66.34,
+      "pass": true
+    },
+    {
+      "indicator": "urbanization",
+      "year": 2022,
+      "region": "新疆",
+      "expected": 57.89,
+      "actual": 57.89,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "全国",
+      "expected": 30733.0,
+      "actual": 30733.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "北京",
+      "expected": 67756.0,
+      "actual": 67756.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "天津",
+      "expected": 42404.0,
+      "actual": 42404.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "河北",
+      "expected": 25665.0,
+      "actual": 25665.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "山西",
+      "expected": 23828.0,
+      "actual": 23828.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "内蒙古",
+      "expected": 30555.0,
+      "actual": 30555.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "辽宁",
+      "expected": 31820.0,
+      "actual": 31820.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "吉林",
+      "expected": 24563.0,
+      "actual": 24563.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "黑龙江",
+      "expected": 24254.0,
+      "actual": 24254.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "上海",
+      "expected": 69442.0,
+      "actual": 69442.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "江苏",
+      "expected": 41400.0,
+      "actual": 41400.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "浙江",
+      "expected": 49899.0,
+      "actual": 49899.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "安徽",
+      "expected": 26415.0,
+      "actual": 26415.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "福建",
+      "expected": 35616.0,
+      "actual": 35616.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "江西",
+      "expected": 26262.0,
+      "actual": 26262.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "山东",
+      "expected": 31597.0,
+      "actual": 31597.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "河南",
+      "expected": 23903.0,
+      "actual": 23903.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "湖北",
+      "expected": 28319.0,
+      "actual": 28319.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "湖南",
+      "expected": 27680.0,
+      "actual": 27680.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "广东",
+      "expected": 39014.0,
+      "actual": 39014.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "广西",
+      "expected": 23328.0,
+      "actual": 23328.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "海南",
+      "expected": 26679.0,
+      "actual": 26679.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "重庆",
+      "expected": 28920.0,
+      "actual": 28920.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "四川",
+      "expected": 24703.0,
+      "actual": 24703.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "贵州",
+      "expected": 20397.0,
+      "actual": 20397.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "云南",
+      "expected": 22082.0,
+      "actual": 22082.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "西藏",
+      "expected": 19501.0,
+      "actual": 19501.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "陕西",
+      "expected": 24666.0,
+      "actual": 24666.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "甘肃",
+      "expected": 19139.0,
+      "actual": 19139.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "青海",
+      "expected": 22618.0,
+      "actual": 22618.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "宁夏",
+      "expected": 24412.0,
+      "actual": 24412.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2019,
+      "region": "新疆",
+      "expected": 23103.0,
+      "actual": 23103.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "全国",
+      "expected": 35128.0,
+      "actual": 35128.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "北京",
+      "expected": 75002.0,
+      "actual": 75002.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "天津",
+      "expected": 47449.0,
+      "actual": 47449.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "河北",
+      "expected": 29383.0,
+      "actual": 29383.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "山西",
+      "expected": 27426.0,
+      "actual": 27426.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "内蒙古",
+      "expected": 34108.0,
+      "actual": 34108.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "辽宁",
+      "expected": 35112.0,
+      "actual": 35112.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "吉林",
+      "expected": 27770.0,
+      "actual": 27770.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "黑龙江",
+      "expected": 27159.0,
+      "actual": 27159.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "上海",
+      "expected": 78027.0,
+      "actual": 78027.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "江苏",
+      "expected": 47498.0,
+      "actual": 47498.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "浙江",
+      "expected": 57541.0,
+      "actual": 57541.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "安徽",
+      "expected": 30904.0,
+      "actual": 30904.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "福建",
+      "expected": 40659.0,
+      "actual": 40659.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "江西",
+      "expected": 30610.0,
+      "actual": 30610.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "山东",
+      "expected": 35705.0,
+      "actual": 35705.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "河南",
+      "expected": 26811.0,
+      "actual": 26811.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "湖北",
+      "expected": 30829.0,
+      "actual": 30829.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "湖南",
+      "expected": 31993.0,
+      "actual": 31993.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "广东",
+      "expected": 44993.0,
+      "actual": 44993.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "广西",
+      "expected": 26727.0,
+      "actual": 26727.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "海南",
+      "expected": 30457.0,
+      "actual": 30457.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "重庆",
+      "expected": 33803.0,
+      "actual": 33803.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "四川",
+      "expected": 29080.0,
+      "actual": 29080.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "贵州",
+      "expected": 23996.0,
+      "actual": 23996.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "云南",
+      "expected": 25666.0,
+      "actual": 25666.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "西藏",
+      "expected": 24950.0,
+      "actual": 24950.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "陕西",
+      "expected": 28568.0,
+      "actual": 28568.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "甘肃",
+      "expected": 22066.0,
+      "actual": 22066.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "青海",
+      "expected": 25919.0,
+      "actual": 25919.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "宁夏",
+      "expected": 27904.0,
+      "actual": 27904.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2021,
+      "region": "新疆",
+      "expected": 26075.0,
+      "actual": 26075.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "全国",
+      "expected": 36883.0,
+      "actual": 36883.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "北京",
+      "expected": 77415.0,
+      "actual": 77415.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "天津",
+      "expected": 48976.0,
+      "actual": 48976.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "河北",
+      "expected": 30867.0,
+      "actual": 30867.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "山西",
+      "expected": 29178.0,
+      "actual": 29178.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "内蒙古",
+      "expected": 35921.0,
+      "actual": 35921.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "辽宁",
+      "expected": 36089.0,
+      "actual": 36089.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "吉林",
+      "expected": 27975.0,
+      "actual": 27975.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "黑龙江",
+      "expected": 28346.0,
+      "actual": 28346.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "上海",
+      "expected": 79610.0,
+      "actual": 79610.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "江苏",
+      "expected": 49862.0,
+      "actual": 49862.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "浙江",
+      "expected": 60302.0,
+      "actual": 60302.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "安徽",
+      "expected": 32745.0,
+      "actual": 32745.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "福建",
+      "expected": 43118.0,
+      "actual": 43118.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "江西",
+      "expected": 32419.0,
+      "actual": 32419.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "山东",
+      "expected": 37560.0,
+      "actual": 37560.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "河南",
+      "expected": 28222.0,
+      "actual": 28222.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "湖北",
+      "expected": 32914.0,
+      "actual": 32914.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "湖南",
+      "expected": 34036.0,
+      "actual": 34036.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "广东",
+      "expected": 47065.0,
+      "actual": 47065.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "广西",
+      "expected": 27981.0,
+      "actual": 27981.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "海南",
+      "expected": 30957.0,
+      "actual": 30957.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "重庆",
+      "expected": 35666.0,
+      "actual": 35666.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "四川",
+      "expected": 30679.0,
+      "actual": 30679.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "贵州",
+      "expected": 25508.0,
+      "actual": 25508.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "云南",
+      "expected": 26937.0,
+      "actual": 26937.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "西藏",
+      "expected": 26675.0,
+      "actual": 26675.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "陕西",
+      "expected": 30116.0,
+      "actual": 30116.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "甘肃",
+      "expected": 23273.0,
+      "actual": 23273.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "青海",
+      "expected": 27000.0,
+      "actual": 27000.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "宁夏",
+      "expected": 29599.0,
+      "actual": 29599.0,
+      "pass": true
+    },
+    {
+      "indicator": "income",
+      "year": 2022,
+      "region": "新疆",
+      "expected": 27063.0,
+      "actual": 27063.0,
+      "pass": true
+    }
+  ]
+}

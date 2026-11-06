@@ -1,5 +1,5 @@
 """Validate a reviewed atlas release without modifying any observations."""
-import json, math, sys, collections, datetime
+import json, math, sys, collections, datetime, hashlib
 from pathlib import Path
 from urllib.parse import urlparse
 ROOT=Path(__file__).resolve().parents[1]
@@ -18,6 +18,34 @@ for s in sources.values():
     host=urlparse(s.get('url','')).hostname or ''
     check(host.endswith('.gov.cn'), f"{s['id']}: non-official source URL")
     for f in ['title','publisher','retrievedAt']: check(bool(s.get(f)), f"{s['id']}: missing {f}")
+for source in sources.values():
+    if source.get('rawFile'):
+        raw=ROOT/source['rawFile']
+        check(raw.exists(),f"missing raw file {source['id']}")
+        if raw.exists():check(hashlib.sha256(raw.read_bytes()).hexdigest()==source.get('sha256'),f"raw hash mismatch {source['id']}")
+# Compare every normalized value against the reviewed transcription, independent of the build script.
+lookup={(o['indicator'],str(o['region']),o['year']):o['value'] for o in d['observations']}
+name_to_code={r['name']:str(r['code']) for r in d['regions']}
+for path in (ROOT/'data/reviewed').glob('*.json'):
+    review=json.loads(path.read_text())
+    if 'regions' not in review or 'year' not in review:continue
+    for iid,item in review.items():
+        if iid not in inds:continue
+        check(len(item['values'])==len(review['regions']),f'review column length {path.name} {iid}')
+        check(item.get('unit')==inds[iid]['unit'],f'review unit mismatch {iid}')
+        for name,value in zip(review['regions'],item['values']):
+            if value is None:continue
+            key=(iid,name_to_code.get(name),review['year'])
+            check(key in lookup and lookup[key]==value,f'review-to-release mismatch {key}')
+audit=json.loads((ROOT/'data/audit/audit-history-result.json').read_text())
+check(not audit['differences'],'independent historical audit differences')
+for cell in audit['checks']:
+    key=(cell['indicator'],name_to_code.get(cell['region']),cell['year'])
+    check(lookup.get(key)==cell['expected'],f'independent historical audit mismatch {key}')
+anchors=json.loads((ROOT/'data/review-anchors.json').read_text())
+for cell in anchors['anchors']:
+    key=(cell['indicator'],cell['region'],cell['year'])
+    check(lookup.get(key)==cell['value'],f'raw-image anchor mismatch {key}')
 seen=set(); groups=collections.defaultdict(list); coverage=collections.defaultdict(set)
 for n,o in enumerate(d['observations']):
     key=(o.get('indicator'),str(o.get('region')),o.get('year'))

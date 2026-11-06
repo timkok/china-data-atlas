@@ -1,0 +1,16 @@
+{
+ "method":"Two independent AI agents visually read official table images, then checked values; not a human expert sign-off. Coordinates are approximate normalized image positions for locating cells, not OCR bounds.",
+ "anchors":[
+ {"indicator":"population","region":"110000","year":2024,"value":2183,"rawFile":"data/raw/2025-C02-05.jpg","column":"2024","row":"北京","position":{"x":0.98,"y":0.16}},
+ {"indicator":"population","region":"420000","year":2020,"value":5745,"rawFile":"data/raw/2025-C02-05.jpg","column":"2020","row":"湖北","position":{"x":0.61,"y":0.57}},
+ {"indicator":"income","region":"310000","year":2024,"value":88366,"rawFile":"data/raw/2025-C06-18.jpg","column":"2024","row":"上海","position":{"x":0.97,"y":0.38}},
+ {"indicator":"income","region":"420000","year":2020,"value":27881,"rawFile":"data/raw/2025-C06-18.jpg","column":"2020","row":"湖北","position":{"x":0.47,"y":0.59}},
+ {"indicator":"gdp","region":"440000","year":2024,"value":141633.8,"rawFile":"data/raw/2025-C03-09.jpg","column":"地区生产总值(亿元)","row":"广东","position":{"x":0.07,"y":0.63}},
+ {"indicator":"gdp-per-capita","region":"150000","year":2024,"value":110011,"rawFile":"data/raw/2025-C03-09.jpg","column":"人均地区生产总值(元)","row":"内蒙古","position":{"x":0.64,"y":0.27}},
+ {"indicator":"birth-rate","region":"650000","year":2023,"value":7.10,"rawFile":"data/raw/2024-C02-07.jpg","column":"出生率(‰)","row":"新疆","position":{"x":0.76,"y":0.89}},
+ {"indicator":"birth-rate","region":"650000","year":2024,"value":9.42,"rawFile":"data/raw/2025-C02-07.jpg","column":"出生率(‰)","row":"新疆","position":{"x":0.75,"y":0.89}},
+ {"indicator":"university-students","region":"000000","year":2024,"value":38912568,"rawFile":"data/raw/2025-C21-14.jpg","column":"在校生数（合计）","row":"全国","position":{"x":0.31,"y":0.13}},
+ {"indicator":"doctors-per-1000","region":"440000","year":2024,"value":2.94,"rawFile":"data/raw/2025-C22-03.jpg","column":"执业(助理)医师-合计","row":"广东","position":{"x":0.48,"y":0.74}}
+ ],
+ "anomalyReviews":[{"indicator":"birth-rate","region":"650000","years":[2023,2024],"values":[7.10,9.42],"resolution":"Confirmed against original bottom-row birth-rate cells in both editions; retained unchanged. Exceeds 25% screening threshold, no causal explanation inferred."}]
+}

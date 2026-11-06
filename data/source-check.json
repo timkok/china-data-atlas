@@ -1,0 +1,111 @@
+{
+  "checkedAt": "2026-11-06T02:19:02.847046+00:00",
+  "results": [
+    {
+      "id": "nbs-2024-C02-07",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C02-07.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 219726
+    },
+    {
+      "id": "nbs-2024-C03-09",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C03-09.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 525706
+    },
+    {
+      "id": "nbs-2024-C21-14",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C21-14.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 493023
+    },
+    {
+      "id": "nbs-2024-C21-15",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C21-15.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 278394
+    },
+    {
+      "id": "nbs-2024-C22-03",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C22-03.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 373935
+    },
+    {
+      "id": "nbs-2024-C22-06",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C22-06.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 300409
+    },
+    {
+      "id": "nbs-2025-C02-06",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-06.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 234003
+    },
+    {
+      "id": "nbs-2025-C02-07",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-07.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 213720
+    },
+    {
+      "id": "nbs-2025-C21-14",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C21-14.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 424808
+    },
+    {
+      "id": "nbs-2025-C21-15",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C21-15.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 255044
+    },
+    {
+      "id": "nbs-2025-C22-03",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C22-03.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 316722
+    },
+    {
+      "id": "nbs-2025-C22-06",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C22-06.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 309302
+    },
+    {
+      "id": "nbs-2025-C02-05",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-05.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 218438
+    },
+    {
+      "id": "nbs-2025-C06-18",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C06-18.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 223216
+    },
+    {
+      "id": "nbs-2025-C03-09",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C03-09.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 550889
+    }
+  ],
+  "passed": true
+}
